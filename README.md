@@ -20,6 +20,7 @@
 
 ## 📚 Current Learning
 
+- CCNA
 - SOC Analysis
 - Threat Hunting
 - Active Directory Security
